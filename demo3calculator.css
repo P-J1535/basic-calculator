@@ -1,0 +1,46 @@
+
+body{
+    
+    background-color: aqua;  
+    
+
+}
+h1{
+    text-align: center;
+    margin-top: 100px;
+}
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0 50px 0;
+}
+input{
+    padding: 15px;
+    font-size: 30px;
+}
+
+.result{
+    border: 2px solid black;
+    width: 384px;
+    height: 55px;
+    margin: 0 0 50px 550px;
+    font-size: 34px;
+    padding: 1px;
+    display: flex;
+    align-items: center;
+    
+}
+.items{
+    text-align: center;
+    
+    
+}
+button{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 15px;
+    cursor: pointer;
+    font-size: 34px;
+}
